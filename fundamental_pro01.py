@@ -1,5 +1,5 @@
 print("Welcome To The Interactive Presonal Data Collecter!")
-
+print(" ")
 Name = str(input("Please Enter Your Name : "))
 Age = int(input("PLease Enter Your Age : "))
 height = float(input("Please Enter Your Height in meters : "))
