@@ -6,7 +6,7 @@ while True:
     print("2. Analyze a Range of Numbers")
     print("3. Exit")
     
-    choice = int(input("Enter your choice: "))
+    choice = int(input("Enter your choice: ")) 
 
     
     if choice == 1:
